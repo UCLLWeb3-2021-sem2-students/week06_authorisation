@@ -1,0 +1,15 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+out/
+
+# password
+/src/main/java/be/ucll/week04_sqlInjection/Secret.java
